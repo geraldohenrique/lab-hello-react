@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.footer{
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+ 
+    
+
+}
+.icons{
+    height: 6rem;
+    width: 6rem;
+    margin: 3rem 0rem 0rem 0.3rem;
+}
+
+.iconsBar{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    color: rgb(25, 34, 49);
+       
+}
+
+h3{
+    font-size: medium;
+    margin: 0rem 0rem 0.5rem 1rem;
+}
+.textIcons{
+    margin: 0rem 0rem 0rem 1rem;
+    font-size: small;
+}
